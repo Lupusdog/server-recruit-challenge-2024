@@ -5,8 +5,8 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/pulse227/server-recruit-challenge-sample/model"
-	"github.com/pulse227/server-recruit-challenge-sample/repository"
+	"github.com/Lupusdog/server-recruit-challenge-2024/model"
+	"github.com/Lupusdog/server-recruit-challenge-2024/repository"
 )
 
 type albumRepository struct {

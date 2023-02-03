@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"strconv"
 
+	"github.com/Lupusdog/server-recruit-challenge-2024/model"
+	"github.com/Lupusdog/server-recruit-challenge-2024/service"
 	"github.com/gorilla/mux"
-	"github.com/pulse227/server-recruit-challenge-sample/model"
-	"github.com/pulse227/server-recruit-challenge-sample/service"
 )
 
 type albumController struct {
