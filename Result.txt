@@ -14,7 +14,7 @@
 
 課題３
 一つ目の結果
-[{"id":1,"title":"Alice's 1st Album","singer_id":1},{"id":2,"title":"Alice's 2nd Album","singer_id":1},{"id":3,"title":"Bella's 1st Album","singer_id":2}]
+[{"id":3,"title":"Bella's 1st Album","singer_id":2},{"id":1,"title":"Alice's 1st Album","singer_id":1},{"id":2,"title":"Alice's 2nd Album","singer_id":1}]
 二つ目の結果
 {"id":1,"title":"Alice's 1st Album","singer_id":1}
 三つ目の結果
