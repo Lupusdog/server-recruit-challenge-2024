@@ -1,4 +1,4 @@
-module github.com/pulse227/server-recruit-challenge-sample
+module github.com/Lupusdog/server-recruit-challenge-2024
 
 go 1.19
 
