@@ -28,3 +28,8 @@
 {"id":1,"title":"Alice's 1st Album","singer":{"id":1,"name":"Alice"}}
 二つ目の結果
 [{"id":2,"title":"Alice's 2nd Album","singer":{"id":1,"name":"Alice"}},{"id":3,"title":"Bella's 1st Album","singer":{"id":2,"name":"Bella"}},{"id":1,"title":"Alice's 1st Album","singer":{"id":1,"name":"Alice"}}]
+
+課題５
+・サーバーに問題が発生してプログラムが終了すると、登録されたデータが消されてしまうので、DB等の何らかの形でファイルとして保存しておいた方が良い。
+・間違ったデータを登録した等の場合に備え、データを修正、アップデートする機能の追加
+・Httpリクエストのコンテクストによって、処理を中断するかしないかの判定のための処理の追加
